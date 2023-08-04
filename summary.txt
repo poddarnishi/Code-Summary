@@ -1,0 +1,38 @@
+File name: C:\Nish\CodeSummary UI\files-from-zip\flask_files\cli.py
+Summary: ['Find the best Flask application in a module .']
+
+Summary: ['Call app factory .']
+
+Summary: ['Check if a function has wrong arguments .']
+
+Summary: ['Find application by name or function name .']
+
+Summary: ['Prepare a python import .']
+
+Summary: ['Locate a Flask application .']
+
+Summary: ['Print current version']
+
+Summary: ['Load the lock .']
+
+Summary: ['A decorator that adds a click context to a function .']
+
+Summary: ['Wrapper for click . Command .']
+
+Summary: ['Check if path is an ancestor of other .']
+
+Summary: ['Load . env file .']
+
+Summary: ['Show the server banner .']
+
+Summary: ['Ensure key is valid .']
+
+Summary: ['Run a werkzeug command .']
+
+Summary: ['Create a shell command .']
+
+Summary: ['Executor for globus routes']
+
+File name: C:\Nish\CodeSummary UI\files-from-zip\user_code.py
+Summary: ['Add two values .']
+
